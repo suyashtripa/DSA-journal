@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/suyashtripa/DSA-journal/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 ## Math
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
