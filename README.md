@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/suyashtripa/DSA-journal/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/suyashtripa/DSA-journal/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
@@ -55,4 +56,8 @@
 | ------- |
 | [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/suyashtripa/DSA-journal/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
