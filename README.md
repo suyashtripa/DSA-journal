@@ -15,6 +15,7 @@
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/suyashtripa/DSA-journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/suyashtripa/DSA-journal/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -23,12 +24,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/suyashtripa/DSA-journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/suyashtripa/DSA-journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 ## Design
 |  |
