@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suyashtripa/DSA-journal/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashtripa/DSA-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/suyashtripa/DSA-journal/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/suyashtripa/DSA-journal/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/suyashtripa/DSA-journal/tree/master/0134-gas-station) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashtripa/DSA-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
