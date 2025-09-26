@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/suyashtripa/DSA-journal/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/suyashtripa/DSA-journal/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
@@ -30,6 +31,7 @@
 | [0001-two-sum](https://github.com/suyashtripa/DSA-journal/tree/master/0001-two-sum) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suyashtripa/DSA-journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/suyashtripa/DSA-journal/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
@@ -50,6 +52,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 ## Ordered Set
 |  |
@@ -60,10 +63,12 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/suyashtripa/DSA-journal/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Greedy
 |  |
@@ -73,4 +78,16 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashtripa/DSA-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
