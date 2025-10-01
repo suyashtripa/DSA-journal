@@ -37,6 +37,7 @@
 | [0001-two-sum](https://github.com/suyashtripa/DSA-journal/tree/master/0001-two-sum) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suyashtripa/DSA-journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/suyashtripa/DSA-journal/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/suyashtripa/DSA-journal/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/suyashtripa/DSA-journal/tree/master/0166-fraction-to-recurring-decimal) |
+| [0242-valid-anagram](https://github.com/suyashtripa/DSA-journal/tree/master/0242-valid-anagram) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 ## Design
 |  |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/suyashtripa/DSA-journal/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/suyashtripa/DSA-journal/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 | [1018-largest-perimeter-triangle](https://github.com/suyashtripa/DSA-journal/tree/master/1018-largest-perimeter-triangle) |
