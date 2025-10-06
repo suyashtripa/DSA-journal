@@ -17,6 +17,7 @@
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
 | [0739-daily-temperatures](https://github.com/suyashtripa/DSA-journal/tree/master/0739-daily-temperatures) |
+| [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/suyashtripa/DSA-journal/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/suyashtripa/DSA-journal/tree/master/1018-largest-perimeter-triangle) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
@@ -63,12 +64,14 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
+| [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 ## Ordered Set
 |  |
@@ -142,8 +145,18 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
+## Binary Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
