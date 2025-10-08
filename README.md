@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suyashtripa/DSA-journal/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suyashtripa/DSA-journal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashtripa/DSA-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/suyashtripa/DSA-journal/tree/master/0134-gas-station) |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
