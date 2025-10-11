@@ -27,6 +27,7 @@
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/suyashtripa/DSA-journal/tree/master/0189-rotate-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/suyashtripa/DSA-journal/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
@@ -97,12 +100,14 @@
 | [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 | [1018-largest-perimeter-triangle](https://github.com/suyashtripa/DSA-journal/tree/master/1018-largest-perimeter-triangle) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +119,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashtripa/DSA-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +176,7 @@
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/suyashtripa/DSA-journal/tree/master/1612-avoid-flood-in-the-city) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Union Find
 |  |
 | ------- |
