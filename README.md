@@ -29,6 +29,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0830-largest-triangle-area](https://github.com/suyashtripa/DSA-journal/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/suyashtripa/DSA-journal/tree/master/1018-largest-perimeter-triangle) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0022-generate-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashtripa/DSA-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +149,7 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,4 +191,12 @@
 | [0022-generate-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
