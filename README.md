@@ -71,6 +71,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/suyashtripa/DSA-journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/suyashtripa/DSA-journal/tree/master/0242-valid-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyashtripa/DSA-journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/suyashtripa/DSA-journal/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 ## Design
 |  |
@@ -127,6 +128,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashtripa/DSA-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/suyashtripa/DSA-journal/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
@@ -202,10 +204,12 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/suyashtripa/DSA-journal/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/suyashtripa/DSA-journal/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
 |  |
