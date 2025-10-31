@@ -31,6 +31,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suyashtripa/DSA-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
@@ -43,6 +44,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/suyashtripa/DSA-journal/tree/master/1018-largest-perimeter-triangle) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyashtripa/DSA-journal/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suyashtripa/DSA-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/suyashtripa/DSA-journal/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
@@ -65,6 +67,7 @@
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suyashtripa/DSA-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
