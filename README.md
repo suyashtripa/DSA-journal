@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/suyashtripa/DSA-journal/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/suyashtripa/DSA-journal/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/suyashtripa/DSA-journal/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suyashtripa/DSA-journal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashtripa/DSA-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -134,6 +135,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/suyashtripa/DSA-journal/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/suyashtripa/DSA-journal/tree/master/0134-gas-station) |
 | [1018-largest-perimeter-triangle](https://github.com/suyashtripa/DSA-journal/tree/master/1018-largest-perimeter-triangle) |
 | [1285-balance-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1285-balance-a-binary-search-tree) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/suyashtripa/DSA-journal/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashtripa/DSA-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/suyashtripa/DSA-journal/tree/master/0152-maximum-product-subarray) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suyashtripa/DSA-journal/tree/master/1700-minimum-time-to-make-rope-colorful) |
