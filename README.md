@@ -39,6 +39,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suyashtripa/DSA-journal/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suyashtripa/DSA-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/suyashtripa/DSA-journal/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/suyashtripa/DSA-journal/tree/master/3863-power-grid-maintenance) |
 ## Math
@@ -78,6 +79,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suyashtripa/DSA-journal/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suyashtripa/DSA-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/suyashtripa/DSA-journal/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/suyashtripa/DSA-journal/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
@@ -149,6 +151,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/suyashtripa/DSA-journal/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suyashtripa/DSA-journal/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/suyashtripa/DSA-journal/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/suyashtripa/DSA-journal/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,11 +205,13 @@
 | [0020-valid-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suyashtripa/DSA-journal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/suyashtripa/DSA-journal/tree/master/0739-daily-temperatures) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/suyashtripa/DSA-journal/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/suyashtripa/DSA-journal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/suyashtripa/DSA-journal/tree/master/0739-daily-temperatures) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/suyashtripa/DSA-journal/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Depth-First Search
 |  |
 | ------- |
