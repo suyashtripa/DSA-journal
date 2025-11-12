@@ -34,6 +34,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyashtripa/DSA-journal/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/suyashtripa/DSA-journal/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/suyashtripa/DSA-journal/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suyashtripa/DSA-journal/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -53,6 +54,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyashtripa/DSA-journal/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/suyashtripa/DSA-journal/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/suyashtripa/DSA-journal/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suyashtripa/DSA-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/suyashtripa/DSA-journal/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -294,4 +296,8 @@
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/suyashtripa/DSA-journal/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Number Theory
+|  |
+| ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/suyashtripa/DSA-journal/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
