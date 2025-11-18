@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/suyashtripa/DSA-journal/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/suyashtripa/DSA-journal/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/suyashtripa/DSA-journal/tree/master/0189-rotate-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
@@ -70,6 +71,7 @@
 | [0001-two-sum](https://github.com/suyashtripa/DSA-journal/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/suyashtripa/DSA-journal/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/suyashtripa/DSA-journal/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/suyashtripa/DSA-journal/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suyashtripa/DSA-journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/suyashtripa/DSA-journal/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suyashtripa/DSA-journal/tree/master/0242-valid-anagram) |
@@ -277,6 +279,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/suyashtripa/DSA-journal/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/suyashtripa/DSA-journal/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/suyashtripa/DSA-journal/tree/master/0141-linked-list-cycle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suyashtripa/DSA-journal/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
