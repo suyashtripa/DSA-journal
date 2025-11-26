@@ -35,6 +35,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyashtripa/DSA-journal/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suyashtripa/DSA-journal/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/suyashtripa/DSA-journal/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/suyashtripa/DSA-journal/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/suyashtripa/DSA-journal/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -122,6 +123,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyashtripa/DSA-journal/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/suyashtripa/DSA-journal/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
@@ -179,6 +181,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/suyashtripa/DSA-journal/tree/master/0747-min-cost-climbing-stairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suyashtripa/DSA-journal/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/suyashtripa/DSA-journal/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/suyashtripa/DSA-journal/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/suyashtripa/DSA-journal/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
