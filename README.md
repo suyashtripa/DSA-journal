@@ -247,6 +247,7 @@
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 | [1285-balance-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1285-balance-a-binary-search-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/suyashtripa/DSA-journal/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/suyashtripa/DSA-journal/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -291,6 +292,7 @@
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1285-balance-a-binary-search-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/suyashtripa/DSA-journal/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
 |  |
 | ------- |
