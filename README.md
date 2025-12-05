@@ -44,6 +44,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suyashtripa/DSA-journal/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/suyashtripa/DSA-journal/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/suyashtripa/DSA-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suyashtripa/DSA-journal/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suyashtripa/DSA-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -68,6 +69,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/suyashtripa/DSA-journal/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suyashtripa/DSA-journal/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/suyashtripa/DSA-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suyashtripa/DSA-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/suyashtripa/DSA-journal/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/suyashtripa/DSA-journal/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -343,6 +345,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/suyashtripa/DSA-journal/tree/master/1590-make-sum-divisible-by-p) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/suyashtripa/DSA-journal/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/suyashtripa/DSA-journal/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/suyashtripa/DSA-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Memoization
 |  |
 | ------- |
