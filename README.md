@@ -335,11 +335,13 @@
 | [0002-add-two-numbers](https://github.com/suyashtripa/DSA-journal/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/suyashtripa/DSA-journal/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/suyashtripa/DSA-journal/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/suyashtripa/DSA-journal/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suyashtripa/DSA-journal/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suyashtripa/DSA-journal/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/suyashtripa/DSA-journal/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/suyashtripa/DSA-journal/tree/master/0509-fibonacci-number) |
 ## Graph
 |  |
