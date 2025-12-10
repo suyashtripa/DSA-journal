@@ -47,6 +47,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suyashtripa/DSA-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suyashtripa/DSA-journal/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/suyashtripa/DSA-journal/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suyashtripa/DSA-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/suyashtripa/DSA-journal/tree/master/3583-count-special-triplets) |
@@ -74,6 +75,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/suyashtripa/DSA-journal/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suyashtripa/DSA-journal/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suyashtripa/DSA-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suyashtripa/DSA-journal/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/suyashtripa/DSA-journal/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/suyashtripa/DSA-journal/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
 |  |
@@ -377,4 +380,8 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/suyashtripa/DSA-journal/tree/master/1925-count-square-sum-triples) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
