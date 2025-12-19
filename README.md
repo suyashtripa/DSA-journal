@@ -19,6 +19,7 @@
 | [0136-single-number](https://github.com/suyashtripa/DSA-journal/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/suyashtripa/DSA-journal/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/suyashtripa/DSA-journal/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/suyashtripa/DSA-journal/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/suyashtripa/DSA-journal/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
@@ -156,6 +157,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/suyashtripa/DSA-journal/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/suyashtripa/DSA-journal/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/suyashtripa/DSA-journal/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/suyashtripa/DSA-journal/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/suyashtripa/DSA-journal/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
@@ -303,6 +306,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/suyashtripa/DSA-journal/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/suyashtripa/DSA-journal/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
@@ -319,6 +323,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/suyashtripa/DSA-journal/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/suyashtripa/DSA-journal/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/suyashtripa/DSA-journal/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/2658-maximum-number-of-fish-in-a-grid) |
