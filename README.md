@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/suyashtripa/DSA-journal/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/suyashtripa/DSA-journal/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suyashtripa/DSA-journal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashtripa/DSA-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/suyashtripa/DSA-journal/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/suyashtripa/DSA-journal/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
@@ -315,6 +317,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/0074-search-a-2d-matrix) |
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/suyashtripa/DSA-journal/tree/master/1612-avoid-flood-in-the-city) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/suyashtripa/DSA-journal/tree/master/2618-maximize-the-minimum-powered-city) |
