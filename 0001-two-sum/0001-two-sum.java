@@ -9,7 +9,7 @@ class Solution {
             map.put(nums[i],i);
 
         }
-        return new int[] {};
+        return null;
         
     }
 }
