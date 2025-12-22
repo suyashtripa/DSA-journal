@@ -31,6 +31,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/suyashtripa/DSA-journal/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/suyashtripa/DSA-journal/tree/master/0830-largest-triangle-area) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/suyashtripa/DSA-journal/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/suyashtripa/DSA-journal/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyashtripa/DSA-journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/suyashtripa/DSA-journal/tree/master/1590-make-sum-divisible-by-p) |
@@ -141,6 +142,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/suyashtripa/DSA-journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/suyashtripa/DSA-journal/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/suyashtripa/DSA-journal/tree/master/0412-fizz-buzz) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/suyashtripa/DSA-journal/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyashtripa/DSA-journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suyashtripa/DSA-journal/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2211-count-collisions-on-a-road](https://github.com/suyashtripa/DSA-journal/tree/master/2211-count-collisions-on-a-road) |
@@ -225,6 +227,7 @@
 | [0152-maximum-product-subarray](https://github.com/suyashtripa/DSA-journal/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/suyashtripa/DSA-journal/tree/master/0509-fibonacci-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/suyashtripa/DSA-journal/tree/master/0747-min-cost-climbing-stairs) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/suyashtripa/DSA-journal/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suyashtripa/DSA-journal/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/suyashtripa/DSA-journal/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/suyashtripa/DSA-journal/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
