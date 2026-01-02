@@ -160,6 +160,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suyashtripa/DSA-journal/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0707-design-linked-list](https://github.com/suyashtripa/DSA-journal/tree/master/0707-design-linked-list) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 ## Matrix
@@ -393,6 +394,7 @@
 | [0061-rotate-list](https://github.com/suyashtripa/DSA-journal/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/suyashtripa/DSA-journal/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/suyashtripa/DSA-journal/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/suyashtripa/DSA-journal/tree/master/0707-design-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suyashtripa/DSA-journal/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
