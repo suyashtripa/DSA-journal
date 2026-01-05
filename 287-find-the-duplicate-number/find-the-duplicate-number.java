@@ -1,13 +1,23 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            if(map.containsKey(nums[i])){
-                return nums[i];
+        int n = nums.length;
+        int low =1;
+        int high =n -1;
+        while(low < high){
+            int mid = low +(high -low)/2;
+            int cnt =0;
+            for(int i=0;i<n;i++){
+                if(nums[i] <= mid){
+                    cnt++;
+                }
             }
-            map.put(nums[i],1);
+            if(cnt <=mid){
+                low = mid+1;
+            }
+            else{
+                high = mid;
+            }
         }
-        return -1;
-        
+        return low;
     }
 }
