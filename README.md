@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suyashtripa/DSA-journal/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suyashtripa/DSA-journal/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/suyashtripa/DSA-journal/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/suyashtripa/DSA-journal/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/0046-permutations) |
@@ -103,6 +104,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suyashtripa/DSA-journal/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/suyashtripa/DSA-journal/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/suyashtripa/DSA-journal/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/suyashtripa/DSA-journal/tree/master/0125-valid-palindrome) |
