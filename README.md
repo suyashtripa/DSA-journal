@@ -342,6 +342,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/suyashtripa/DSA-journal/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/suyashtripa/DSA-journal/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/suyashtripa/DSA-journal/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
@@ -419,6 +420,7 @@
 ## Graph
 |  |
 | ------- |
+| [2608-shortest-cycle-in-a-graph](https://github.com/suyashtripa/DSA-journal/tree/master/2608-shortest-cycle-in-a-graph) |
 | [3863-power-grid-maintenance](https://github.com/suyashtripa/DSA-journal/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
