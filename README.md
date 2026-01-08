@@ -40,6 +40,7 @@
 | [1046-last-stone-weight](https://github.com/suyashtripa/DSA-journal/tree/master/1046-last-stone-weight) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyashtripa/DSA-journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/suyashtripa/DSA-journal/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1590-make-sum-divisible-by-p](https://github.com/suyashtripa/DSA-journal/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/suyashtripa/DSA-journal/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suyashtripa/DSA-journal/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -255,6 +256,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/suyashtripa/DSA-journal/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/suyashtripa/DSA-journal/tree/master/0747-min-cost-climbing-stairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/suyashtripa/DSA-journal/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/suyashtripa/DSA-journal/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suyashtripa/DSA-journal/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/suyashtripa/DSA-journal/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/suyashtripa/DSA-journal/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
