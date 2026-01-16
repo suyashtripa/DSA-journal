@@ -125,6 +125,7 @@
 | [0001-two-sum](https://github.com/suyashtripa/DSA-journal/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/suyashtripa/DSA-journal/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/suyashtripa/DSA-journal/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/suyashtripa/DSA-journal/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/suyashtripa/DSA-journal/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/suyashtripa/DSA-journal/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suyashtripa/DSA-journal/tree/master/0166-fraction-to-recurring-decimal) |
@@ -161,6 +162,7 @@
 | [0076-minimum-window-substring](https://github.com/suyashtripa/DSA-journal/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/suyashtripa/DSA-journal/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/suyashtripa/DSA-journal/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suyashtripa/DSA-journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/suyashtripa/DSA-journal/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/suyashtripa/DSA-journal/tree/master/0344-reverse-string) |
@@ -354,6 +356,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/suyashtripa/DSA-journal/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/suyashtripa/DSA-journal/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/suyashtripa/DSA-journal/tree/master/0695-max-area-of-island) |
