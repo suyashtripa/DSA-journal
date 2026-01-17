@@ -1,30 +1,47 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
-        if(nums.length == 0){
+
+        // If array is empty, no consecutive sequence exists
+        if (nums.length == 0) {
             return 0;
         }
-        HashSet<Integer> numSet = new HashSet<>();
-        for(int i=0;i<nums.length;i++){
-            numSet.add(nums[i]);
+
+        // HashSet for fast O(1) lookup and removing duplicates
+        HashSet<Integer> set = new HashSet<>();
+
+        // Add all numbers into HashSet
+        for (int num : nums) {
+            set.add(num);
         }
-        int longestSub = 1;
-        for(int num:numSet){
-            if(numSet.contains(num-1)){
+
+        // Variable to store the longest sequence length
+        int longest = 1;
+
+        // Loop through each unique number
+        for (int num : set) {
+
+            // Check if num is the START of a sequence
+            // If num-1 exists, skip this number
+            
+
+            // num is the start of a sequence
+            int currentNum = num;
+            int currentLength = 1;
+            if (set.contains(num - 1)) {
                 continue;
-
-            }
-            else{
-                int currentNum = num;
-                int currentSub = 1;
-                while(numSet.contains(currentNum+1)){
-                    currentNum++;
-                    currentSub++;
-                }
-                longestSub = Math.max(longestSub,currentSub);
             }
 
+            // Count consecutive numbers forward
+            while (set.contains(currentNum + 1)) {
+                currentNum++;
+                currentLength++;
+            }
+
+            // Update longest sequence found
+            longest = Math.max(longest, currentLength);
         }
-        return longestSub;
-        
+
+        // Return final result
+        return longest;
     }
 }
