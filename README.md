@@ -486,4 +486,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suyashtripa/DSA-journal/tree/master/0703-kth-largest-element-in-a-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/suyashtripa/DSA-journal/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
