@@ -26,6 +26,7 @@
 | [0200-number-of-islands](https://github.com/suyashtripa/DSA-journal/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/suyashtripa/DSA-journal/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/suyashtripa/DSA-journal/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/suyashtripa/DSA-journal/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
@@ -452,6 +453,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/suyashtripa/DSA-journal/tree/master/0238-product-of-array-except-self) |
 | [1590-make-sum-divisible-by-p](https://github.com/suyashtripa/DSA-journal/tree/master/1590-make-sum-divisible-by-p) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/suyashtripa/DSA-journal/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/suyashtripa/DSA-journal/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
