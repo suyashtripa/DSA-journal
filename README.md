@@ -138,6 +138,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/suyashtripa/DSA-journal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/suyashtripa/DSA-journal/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1079-letter-tile-possibilities](https://github.com/suyashtripa/DSA-journal/tree/master/1079-letter-tile-possibilities) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyashtripa/DSA-journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/suyashtripa/DSA-journal/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/suyashtripa/DSA-journal/tree/master/1612-avoid-flood-in-the-city) |
@@ -172,6 +173,7 @@
 | [0412-fizz-buzz](https://github.com/suyashtripa/DSA-journal/tree/master/0412-fizz-buzz) |
 | [0756-pyramid-transition-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/0756-pyramid-transition-matrix) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/suyashtripa/DSA-journal/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1079-letter-tile-possibilities](https://github.com/suyashtripa/DSA-journal/tree/master/1079-letter-tile-possibilities) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyashtripa/DSA-journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suyashtripa/DSA-journal/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2211-count-collisions-on-a-road](https://github.com/suyashtripa/DSA-journal/tree/master/2211-count-collisions-on-a-road) |
@@ -241,6 +243,7 @@
 | ------- |
 | [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
+| [1079-letter-tile-possibilities](https://github.com/suyashtripa/DSA-journal/tree/master/1079-letter-tile-possibilities) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/suyashtripa/DSA-journal/tree/master/3583-count-special-triplets) |
@@ -395,6 +398,7 @@
 | [0046-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
 | [0756-pyramid-transition-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/0756-pyramid-transition-matrix) |
+| [1079-letter-tile-possibilities](https://github.com/suyashtripa/DSA-journal/tree/master/1079-letter-tile-possibilities) |
 ## Bit Manipulation
 |  |
 | ------- |
