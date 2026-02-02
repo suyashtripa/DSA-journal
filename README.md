@@ -17,6 +17,7 @@
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suyashtripa/DSA-journal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/suyashtripa/DSA-journal/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/suyashtripa/DSA-journal/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashtripa/DSA-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/suyashtripa/DSA-journal/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/suyashtripa/DSA-journal/tree/master/0134-gas-station) |
@@ -122,6 +123,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyashtripa/DSA-journal/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/suyashtripa/DSA-journal/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/suyashtripa/DSA-journal/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/suyashtripa/DSA-journal/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/suyashtripa/DSA-journal/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/suyashtripa/DSA-journal/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/suyashtripa/DSA-journal/tree/master/0189-rotate-array) |
@@ -235,6 +237,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/suyashtripa/DSA-journal/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/suyashtripa/DSA-journal/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suyashtripa/DSA-journal/tree/master/0242-valid-anagram) |
