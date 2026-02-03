@@ -52,6 +52,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/suyashtripa/DSA-journal/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/suyashtripa/DSA-journal/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suyashtripa/DSA-journal/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/suyashtripa/DSA-journal/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suyashtripa/DSA-journal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/suyashtripa/DSA-journal/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -103,6 +104,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/suyashtripa/DSA-journal/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/suyashtripa/DSA-journal/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/suyashtripa/DSA-journal/tree/master/1266-minimum-time-visiting-all-points) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/suyashtripa/DSA-journal/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1925-count-square-sum-triples](https://github.com/suyashtripa/DSA-journal/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/suyashtripa/DSA-journal/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyashtripa/DSA-journal/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -332,6 +334,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/suyashtripa/DSA-journal/tree/master/0412-fizz-buzz) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/suyashtripa/DSA-journal/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2211-count-collisions-on-a-road](https://github.com/suyashtripa/DSA-journal/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suyashtripa/DSA-journal/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/suyashtripa/DSA-journal/tree/master/2288-count-operations-to-obtain-zero) |
@@ -483,6 +486,7 @@
 | [0206-reverse-linked-list](https://github.com/suyashtripa/DSA-journal/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/suyashtripa/DSA-journal/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/suyashtripa/DSA-journal/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Graph
 |  |
 | ------- |
@@ -491,6 +495,7 @@
 ## Queue
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/suyashtripa/DSA-journal/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/suyashtripa/DSA-journal/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/suyashtripa/DSA-journal/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Prefix Sum
