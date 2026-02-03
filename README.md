@@ -84,6 +84,7 @@
 | [3606-coupon-code-validator](https://github.com/suyashtripa/DSA-journal/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/suyashtripa/DSA-journal/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/suyashtripa/DSA-journal/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3637-trionic-array-i](https://github.com/suyashtripa/DSA-journal/tree/master/3637-trionic-array-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/suyashtripa/DSA-journal/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/suyashtripa/DSA-journal/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
