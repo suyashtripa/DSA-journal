@@ -12,6 +12,7 @@
 | [0036-valid-sudoku](https://github.com/suyashtripa/DSA-journal/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/suyashtripa/DSA-journal/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/suyashtripa/DSA-journal/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suyashtripa/DSA-journal/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
@@ -288,6 +289,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suyashtripa/DSA-journal/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/suyashtripa/DSA-journal/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suyashtripa/DSA-journal/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/suyashtripa/DSA-journal/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashtripa/DSA-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -311,6 +313,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/suyashtripa/DSA-journal/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1285-balance-a-binary-search-tree) |
