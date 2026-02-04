@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/suyashtripa/DSA-journal/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/suyashtripa/DSA-journal/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyashtripa/DSA-journal/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/suyashtripa/DSA-journal/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/suyashtripa/DSA-journal/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/suyashtripa/DSA-journal/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/0046-permutations) |
@@ -407,6 +408,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/suyashtripa/DSA-journal/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/suyashtripa/DSA-journal/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suyashtripa/DSA-journal/tree/master/0744-find-smallest-letter-greater-than-target) |
