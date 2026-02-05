@@ -72,6 +72,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/suyashtripa/DSA-journal/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suyashtripa/DSA-journal/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suyashtripa/DSA-journal/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3379-transformed-array](https://github.com/suyashtripa/DSA-journal/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/suyashtripa/DSA-journal/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suyashtripa/DSA-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/suyashtripa/DSA-journal/tree/master/3433-count-mentions-per-user) |
@@ -343,6 +344,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suyashtripa/DSA-journal/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/suyashtripa/DSA-journal/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3379-transformed-array](https://github.com/suyashtripa/DSA-journal/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/suyashtripa/DSA-journal/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suyashtripa/DSA-journal/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Combinatorics
