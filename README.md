@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/suyashtripa/DSA-journal/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suyashtripa/DSA-journal/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/suyashtripa/DSA-journal/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suyashtripa/DSA-journal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/suyashtripa/DSA-journal/tree/master/0085-maximal-rectangle) |
@@ -439,12 +440,14 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/suyashtripa/DSA-journal/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
 | [0756-pyramid-transition-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/0756-pyramid-transition-matrix) |
 | [1079-letter-tile-possibilities](https://github.com/suyashtripa/DSA-journal/tree/master/1079-letter-tile-possibilities) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/suyashtripa/DSA-journal/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/suyashtripa/DSA-journal/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/suyashtripa/DSA-journal/tree/master/0287-find-the-duplicate-number) |
 | [0756-pyramid-transition-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/0756-pyramid-transition-matrix) |
