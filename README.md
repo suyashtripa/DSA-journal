@@ -389,6 +389,7 @@
 | ------- |
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/suyashtripa/DSA-journal/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/suyashtripa/DSA-journal/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
@@ -405,6 +406,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/suyashtripa/DSA-journal/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/suyashtripa/DSA-journal/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/suyashtripa/DSA-journal/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/suyashtripa/DSA-journal/tree/master/0695-max-area-of-island) |
@@ -565,10 +567,15 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/suyashtripa/DSA-journal/tree/master/0207-course-schedule) |
 | [1377-frog-position-after-t-seconds](https://github.com/suyashtripa/DSA-journal/tree/master/1377-frog-position-after-t-seconds) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suyashtripa/DSA-journal/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suyashtripa/DSA-journal/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/suyashtripa/DSA-journal/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
