@@ -91,6 +91,7 @@
 | [3625-count-number-of-trapezoids-ii](https://github.com/suyashtripa/DSA-journal/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3637-trionic-array-i](https://github.com/suyashtripa/DSA-journal/tree/master/3637-trionic-array-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/suyashtripa/DSA-journal/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3721-longest-balanced-subarray-ii](https://github.com/suyashtripa/DSA-journal/tree/master/3721-longest-balanced-subarray-ii) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/suyashtripa/DSA-journal/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -174,6 +175,7 @@
 | [3606-coupon-code-validator](https://github.com/suyashtripa/DSA-journal/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/suyashtripa/DSA-journal/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/suyashtripa/DSA-journal/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/suyashtripa/DSA-journal/tree/master/3721-longest-balanced-subarray-ii) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/suyashtripa/DSA-journal/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/suyashtripa/DSA-journal/tree/master/3863-power-grid-maintenance) |
@@ -323,6 +325,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1285-balance-a-binary-search-tree) |
+| [3721-longest-balanced-subarray-ii](https://github.com/suyashtripa/DSA-journal/tree/master/3721-longest-balanced-subarray-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -529,6 +532,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suyashtripa/DSA-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/suyashtripa/DSA-journal/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/suyashtripa/DSA-journal/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3721-longest-balanced-subarray-ii](https://github.com/suyashtripa/DSA-journal/tree/master/3721-longest-balanced-subarray-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -578,4 +582,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/suyashtripa/DSA-journal/tree/master/0207-course-schedule) |
+## Segment Tree
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/suyashtripa/DSA-journal/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
