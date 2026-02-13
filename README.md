@@ -210,6 +210,7 @@
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suyashtripa/DSA-journal/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/suyashtripa/DSA-journal/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/suyashtripa/DSA-journal/tree/master/0901-online-stock-span) |
 | [0911-online-election](https://github.com/suyashtripa/DSA-journal/tree/master/0911-online-election) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
@@ -376,6 +377,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/suyashtripa/DSA-journal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/suyashtripa/DSA-journal/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/suyashtripa/DSA-journal/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/suyashtripa/DSA-journal/tree/master/0901-online-stock-span) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/suyashtripa/DSA-journal/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/suyashtripa/DSA-journal/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/suyashtripa/DSA-journal/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -386,6 +388,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/suyashtripa/DSA-journal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/suyashtripa/DSA-journal/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/suyashtripa/DSA-journal/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/suyashtripa/DSA-journal/tree/master/0901-online-stock-span) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/suyashtripa/DSA-journal/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Depth-First Search
 |  |
@@ -560,6 +563,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suyashtripa/DSA-journal/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/suyashtripa/DSA-journal/tree/master/0901-online-stock-span) |
 ## Union-Find
 |  |
 | ------- |
