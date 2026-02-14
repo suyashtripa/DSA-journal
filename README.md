@@ -57,6 +57,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suyashtripa/DSA-journal/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/suyashtripa/DSA-journal/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suyashtripa/DSA-journal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suyashtripa/DSA-journal/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/suyashtripa/DSA-journal/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyashtripa/DSA-journal/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -199,6 +200,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyashtripa/DSA-journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/suyashtripa/DSA-journal/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suyashtripa/DSA-journal/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suyashtripa/DSA-journal/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2211-count-collisions-on-a-road](https://github.com/suyashtripa/DSA-journal/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyashtripa/DSA-journal/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suyashtripa/DSA-journal/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -240,6 +242,7 @@
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/suyashtripa/DSA-journal/tree/master/1046-last-stone-weight) |
 | [1612-avoid-flood-in-the-city](https://github.com/suyashtripa/DSA-journal/tree/master/1612-avoid-flood-in-the-city) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suyashtripa/DSA-journal/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suyashtripa/DSA-journal/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/suyashtripa/DSA-journal/tree/master/3863-power-grid-maintenance) |
@@ -261,6 +264,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/suyashtripa/DSA-journal/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyashtripa/DSA-journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suyashtripa/DSA-journal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suyashtripa/DSA-journal/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suyashtripa/DSA-journal/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/suyashtripa/DSA-journal/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/suyashtripa/DSA-journal/tree/master/3074-apple-redistribution-into-boxes) |
@@ -326,6 +330,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1285-balance-a-binary-search-tree) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suyashtripa/DSA-journal/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/suyashtripa/DSA-journal/tree/master/3721-longest-balanced-subarray-ii) |
 ## Bucket Sort
 |  |
@@ -336,6 +341,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suyashtripa/DSA-journal/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Geometry
 |  |
 | ------- |
