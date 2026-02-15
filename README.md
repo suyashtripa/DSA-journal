@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suyashtripa/DSA-journal/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/suyashtripa/DSA-journal/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suyashtripa/DSA-journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/suyashtripa/DSA-journal/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0241-different-ways-to-add-parentheses) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/suyashtripa/DSA-journal/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/suyashtripa/DSA-journal/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/suyashtripa/DSA-journal/tree/master/0125-valid-palindrome) |
@@ -352,6 +354,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suyashtripa/DSA-journal/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/suyashtripa/DSA-journal/tree/master/0412-fizz-buzz) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/suyashtripa/DSA-journal/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2211-count-collisions-on-a-road](https://github.com/suyashtripa/DSA-journal/tree/master/2211-count-collisions-on-a-road) |
@@ -463,6 +466,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suyashtripa/DSA-journal/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/suyashtripa/DSA-journal/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/suyashtripa/DSA-journal/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/suyashtripa/DSA-journal/tree/master/0287-find-the-duplicate-number) |
