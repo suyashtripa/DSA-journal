@@ -418,6 +418,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/suyashtripa/DSA-journal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1285-balance-a-binary-search-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/suyashtripa/DSA-journal/tree/master/1377-frog-position-after-t-seconds) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/suyashtripa/DSA-journal/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/suyashtripa/DSA-journal/tree/master/3863-power-grid-maintenance) |
@@ -437,6 +438,7 @@
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/suyashtripa/DSA-journal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/suyashtripa/DSA-journal/tree/master/1377-frog-position-after-t-seconds) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/suyashtripa/DSA-journal/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/suyashtripa/DSA-journal/tree/master/3863-power-grid-maintenance) |
@@ -504,6 +506,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/suyashtripa/DSA-journal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1285-balance-a-binary-search-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/suyashtripa/DSA-journal/tree/master/1377-frog-position-after-t-seconds) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/suyashtripa/DSA-journal/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
 |  |
@@ -523,6 +526,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/suyashtripa/DSA-journal/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/suyashtripa/DSA-journal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1285-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
