@@ -405,6 +405,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/suyashtripa/DSA-journal/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/suyashtripa/DSA-journal/tree/master/0199-binary-tree-right-side-view) |
@@ -496,6 +497,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/suyashtripa/DSA-journal/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -511,12 +513,14 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suyashtripa/DSA-journal/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1285-balance-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/suyashtripa/DSA-journal/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0111-minimum-depth-of-binary-tree) |
