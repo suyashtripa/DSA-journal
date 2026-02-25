@@ -159,6 +159,7 @@
 | [0217-contains-duplicate](https://github.com/suyashtripa/DSA-journal/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suyashtripa/DSA-journal/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
+| [0652-find-duplicate-subtrees](https://github.com/suyashtripa/DSA-journal/tree/master/0652-find-duplicate-subtrees) |
 | [0756-pyramid-transition-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/suyashtripa/DSA-journal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0911-online-election](https://github.com/suyashtripa/DSA-journal/tree/master/0911-online-election) |
@@ -420,6 +421,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suyashtripa/DSA-journal/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
+| [0652-find-duplicate-subtrees](https://github.com/suyashtripa/DSA-journal/tree/master/0652-find-duplicate-subtrees) |
 | [0695-max-area-of-island](https://github.com/suyashtripa/DSA-journal/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/suyashtripa/DSA-journal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -513,6 +515,7 @@
 | [0226-invert-binary-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suyashtripa/DSA-journal/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/suyashtripa/DSA-journal/tree/master/0652-find-duplicate-subtrees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suyashtripa/DSA-journal/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/suyashtripa/DSA-journal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1285-balance-a-binary-search-tree) |
@@ -540,6 +543,7 @@
 | [0226-invert-binary-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suyashtripa/DSA-journal/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/suyashtripa/DSA-journal/tree/master/0652-find-duplicate-subtrees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suyashtripa/DSA-journal/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/suyashtripa/DSA-journal/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/suyashtripa/DSA-journal/tree/master/1285-balance-a-binary-search-tree) |
