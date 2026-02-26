@@ -205,6 +205,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/suyashtripa/DSA-journal/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1079-letter-tile-possibilities](https://github.com/suyashtripa/DSA-journal/tree/master/1079-letter-tile-possibilities) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyashtripa/DSA-journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/suyashtripa/DSA-journal/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/suyashtripa/DSA-journal/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suyashtripa/DSA-journal/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suyashtripa/DSA-journal/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -363,6 +364,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/suyashtripa/DSA-journal/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/suyashtripa/DSA-journal/tree/master/0412-fizz-buzz) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/suyashtripa/DSA-journal/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/suyashtripa/DSA-journal/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2211-count-collisions-on-a-road](https://github.com/suyashtripa/DSA-journal/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suyashtripa/DSA-journal/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -493,6 +495,7 @@
 | [0287-find-the-duplicate-number](https://github.com/suyashtripa/DSA-journal/tree/master/0287-find-the-duplicate-number) |
 | [0756-pyramid-transition-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/suyashtripa/DSA-journal/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/suyashtripa/DSA-journal/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/suyashtripa/DSA-journal/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/suyashtripa/DSA-journal/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/suyashtripa/DSA-journal/tree/master/3676-smallest-number-with-all-set-bits) |
