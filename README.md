@@ -149,6 +149,7 @@
 | [0189-rotate-array](https://github.com/suyashtripa/DSA-journal/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/suyashtripa/DSA-journal/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/suyashtripa/DSA-journal/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/suyashtripa/DSA-journal/tree/master/0392-is-subsequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suyashtripa/DSA-journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
@@ -206,6 +207,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/suyashtripa/DSA-journal/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/suyashtripa/DSA-journal/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/suyashtripa/DSA-journal/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/suyashtripa/DSA-journal/tree/master/0412-fizz-buzz) |
 | [0756-pyramid-transition-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/0756-pyramid-transition-matrix) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/suyashtripa/DSA-journal/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -331,6 +333,7 @@
 | [0152-maximum-product-subarray](https://github.com/suyashtripa/DSA-journal/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/suyashtripa/DSA-journal/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0241-different-ways-to-add-parentheses) |
+| [0392-is-subsequence](https://github.com/suyashtripa/DSA-journal/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/suyashtripa/DSA-journal/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/suyashtripa/DSA-journal/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/suyashtripa/DSA-journal/tree/master/0747-min-cost-climbing-stairs) |
