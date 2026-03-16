@@ -60,6 +60,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/suyashtripa/DSA-journal/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/suyashtripa/DSA-journal/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/suyashtripa/DSA-journal/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/suyashtripa/DSA-journal/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suyashtripa/DSA-journal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suyashtripa/DSA-journal/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -119,6 +120,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/suyashtripa/DSA-journal/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/suyashtripa/DSA-journal/tree/master/1266-minimum-time-visiting-all-points) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/suyashtripa/DSA-journal/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/suyashtripa/DSA-journal/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/suyashtripa/DSA-journal/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyashtripa/DSA-journal/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -250,6 +252,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/suyashtripa/DSA-journal/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/suyashtripa/DSA-journal/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyashtripa/DSA-journal/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/suyashtripa/DSA-journal/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -263,6 +266,7 @@
 | [0794-swim-in-rising-water](https://github.com/suyashtripa/DSA-journal/tree/master/0794-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/suyashtripa/DSA-journal/tree/master/1046-last-stone-weight) |
 | [1612-avoid-flood-in-the-city](https://github.com/suyashtripa/DSA-journal/tree/master/1612-avoid-flood-in-the-city) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suyashtripa/DSA-journal/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2023-design-movie-rental-system](https://github.com/suyashtripa/DSA-journal/tree/master/2023-design-movie-rental-system) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/suyashtripa/DSA-journal/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -285,6 +289,7 @@
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 | [1018-largest-perimeter-triangle](https://github.com/suyashtripa/DSA-journal/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyashtripa/DSA-journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suyashtripa/DSA-journal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/suyashtripa/DSA-journal/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suyashtripa/DSA-journal/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -608,6 +613,7 @@
 | [0238-product-of-array-except-self](https://github.com/suyashtripa/DSA-journal/tree/master/0238-product-of-array-except-self) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/suyashtripa/DSA-journal/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/suyashtripa/DSA-journal/tree/master/1590-make-sum-divisible-by-p) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/suyashtripa/DSA-journal/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/suyashtripa/DSA-journal/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suyashtripa/DSA-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
