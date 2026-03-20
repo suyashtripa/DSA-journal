@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suyashtripa/DSA-journal/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suyashtripa/DSA-journal/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/suyashtripa/DSA-journal/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/suyashtripa/DSA-journal/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyashtripa/DSA-journal/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -199,6 +200,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suyashtripa/DSA-journal/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/suyashtripa/DSA-journal/tree/master/0067-add-binary) |
@@ -408,6 +410,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suyashtripa/DSA-journal/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/suyashtripa/DSA-journal/tree/master/0076-minimum-window-substring) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suyashtripa/DSA-journal/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/suyashtripa/DSA-journal/tree/master/2618-maximize-the-minimum-powered-city) |
