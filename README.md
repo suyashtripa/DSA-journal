@@ -91,6 +91,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suyashtripa/DSA-journal/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suyashtripa/DSA-journal/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/suyashtripa/DSA-journal/tree/master/3531-count-covered-buildings) |
+| [3546-equal-sum-grid-partition-i](https://github.com/suyashtripa/DSA-journal/tree/master/3546-equal-sum-grid-partition-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/suyashtripa/DSA-journal/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/suyashtripa/DSA-journal/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -261,6 +262,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/suyashtripa/DSA-journal/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/suyashtripa/DSA-journal/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/suyashtripa/DSA-journal/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3546-equal-sum-grid-partition-i](https://github.com/suyashtripa/DSA-journal/tree/master/3546-equal-sum-grid-partition-i) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
@@ -631,6 +633,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/suyashtripa/DSA-journal/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/suyashtripa/DSA-journal/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suyashtripa/DSA-journal/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/suyashtripa/DSA-journal/tree/master/3546-equal-sum-grid-partition-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/suyashtripa/DSA-journal/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/suyashtripa/DSA-journal/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3721-longest-balanced-subarray-ii](https://github.com/suyashtripa/DSA-journal/tree/master/3721-longest-balanced-subarray-ii) |
@@ -653,6 +656,7 @@
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/suyashtripa/DSA-journal/tree/master/1925-count-square-sum-triples) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/suyashtripa/DSA-journal/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3546-equal-sum-grid-partition-i](https://github.com/suyashtripa/DSA-journal/tree/master/3546-equal-sum-grid-partition-i) |
 ## Brainteaser
 |  |
 | ------- |
