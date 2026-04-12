@@ -1,23 +1,39 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        int n = nums.length;
-        int low =1;
-        int high =n -1;
-        while(low < high){
-            int mid = low +(high -low)/2;
-            int cnt =0;
-            for(int i=0;i<n;i++){
-                if(nums[i] <= mid){
-                    cnt++;
-                }
+        Set<Integer> set = new HashSet<>();
+        for(int num:nums){
+            if(set.contains(num)){
+                return num;
             }
-            if(cnt <=mid){
-                low = mid+1;
-            }
-            else{
-                high = mid;
-            }
+            set.add(num);
         }
-        return low;
+        return -1;
     }
 }
+ 
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+//         Set<Integer> seen = new HashSet<>();
+//         for (int num : nums) {
+//             if (seen.contains(num)) {
+//                 return num;  // Duplicate found
+//             }
+//             seen.add(num);  // Add number to set
+//         }
+//         return -1;  // No duplicate found
+//     }
+// }
