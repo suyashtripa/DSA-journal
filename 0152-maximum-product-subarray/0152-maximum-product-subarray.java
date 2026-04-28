@@ -1,23 +1,23 @@
-
-
-    class Solution {
+class Solution {
     public int maxProduct(int[] nums) {
-        int maxProd = nums[0];
-        int minProd = nums[0];
-        int ans = nums[0];
+        int n = nums.length;
+        
+        int prefix = 1;
+        int suffix = 1;
+        int maxProduct = Integer.MIN_VALUE;
 
-        for (int i = 1; i < nums.length; i++) {
-            if (nums[i] < 0) {
-                int temp = maxProd;
-                maxProd = minProd;
-                minProd = temp;
-            }
+        for (int i = 0; i < n; i++) {
+            
+            // Reset if product becomes 0
+            if (prefix == 0) prefix = 1;
+            if (suffix == 0) suffix = 1;
 
-            maxProd = Math.max(nums[i], maxProd * nums[i]);
-            minProd = Math.min(nums[i], minProd * nums[i]);
+            prefix *= nums[i];
+            suffix *= nums[n - 1 - i];
 
-            ans = Math.max(ans, maxProd);
+            maxProduct = Math.max(maxProduct, Math.max(prefix, suffix));
         }
-        return ans;
+
+        return maxProduct;
     }
 }
