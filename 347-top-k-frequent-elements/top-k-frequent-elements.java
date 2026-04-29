@@ -1,8 +1,9 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
         
-        HashMap<Integer,Integer> count = new HashMap<>();
-        for(int n:nums){
+
+       HashMap<Integer,Integer> count = new HashMap<>();
+       for(int n:nums){
             count.put(n,count.getOrDefault(n,0)+1);
         }
         Queue<Integer> heap = new PriorityQueue<>((a,b) ->count.get(a) - count.get(b));
