@@ -238,6 +238,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/suyashtripa/DSA-journal/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suyashtripa/DSA-journal/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/suyashtripa/DSA-journal/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/suyashtripa/DSA-journal/tree/master/0901-online-stock-span) |
@@ -430,6 +431,7 @@
 | [0042-trapping-rain-water](https://github.com/suyashtripa/DSA-journal/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suyashtripa/DSA-journal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/suyashtripa/DSA-journal/tree/master/0085-maximal-rectangle) |
+| [0232-implement-queue-using-stacks](https://github.com/suyashtripa/DSA-journal/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/suyashtripa/DSA-journal/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/suyashtripa/DSA-journal/tree/master/0901-online-stock-span) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/suyashtripa/DSA-journal/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -622,6 +624,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/suyashtripa/DSA-journal/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/suyashtripa/DSA-journal/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/suyashtripa/DSA-journal/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/suyashtripa/DSA-journal/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
