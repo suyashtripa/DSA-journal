@@ -40,6 +40,7 @@
 | [0287-find-the-duplicate-number](https://github.com/suyashtripa/DSA-journal/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
+| [0485-max-consecutive-ones](https://github.com/suyashtripa/DSA-journal/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/suyashtripa/DSA-journal/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/suyashtripa/DSA-journal/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suyashtripa/DSA-journal/tree/master/0744-find-smallest-letter-greater-than-target) |
