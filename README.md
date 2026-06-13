@@ -110,6 +110,7 @@
 | [3721-longest-balanced-subarray-ii](https://github.com/suyashtripa/DSA-journal/tree/master/3721-longest-balanced-subarray-ii) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/suyashtripa/DSA-journal/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/suyashtripa/DSA-journal/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/suyashtripa/DSA-journal/tree/master/3863-power-grid-maintenance) |
 ## Math
@@ -244,6 +245,7 @@
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/suyashtripa/DSA-journal/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3606-coupon-code-validator](https://github.com/suyashtripa/DSA-journal/tree/master/3606-coupon-code-validator) |
 | [3797-design-spreadsheet](https://github.com/suyashtripa/DSA-journal/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/suyashtripa/DSA-journal/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |
@@ -421,6 +423,7 @@
 | [3379-transformed-array](https://github.com/suyashtripa/DSA-journal/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/suyashtripa/DSA-journal/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/suyashtripa/DSA-journal/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3838-weighted-word-mapping](https://github.com/suyashtripa/DSA-journal/tree/master/3838-weighted-word-mapping) |
 ## Combinatorics
 |  |
 | ------- |
