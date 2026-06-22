@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suyashtripa/DSA-journal/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/suyashtripa/DSA-journal/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/suyashtripa/DSA-journal/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suyashtripa/DSA-journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/suyashtripa/DSA-journal/tree/master/0189-rotate-array) |
@@ -361,6 +362,7 @@
 | [0045-jump-game-ii](https://github.com/suyashtripa/DSA-journal/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/suyashtripa/DSA-journal/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suyashtripa/DSA-journal/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/suyashtripa/DSA-journal/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/suyashtripa/DSA-journal/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashtripa/DSA-journal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suyashtripa/DSA-journal/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -429,6 +431,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/suyashtripa/DSA-journal/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyashtripa/DSA-journal/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/suyashtripa/DSA-journal/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/suyashtripa/DSA-journal/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
