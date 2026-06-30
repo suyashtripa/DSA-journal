@@ -746,4 +746,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suyashtripa/DSA-journal/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/suyashtripa/DSA-journal/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
