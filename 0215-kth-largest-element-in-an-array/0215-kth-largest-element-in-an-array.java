@@ -16,31 +16,3 @@ class Solution {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//         PriorityQueue<Integer> minheap= new PriorityQueue<>();
-//         for(int i:nums){
-//             minheap.add(i);
-//             if(minheap.size() > k){
-//                 minheap.poll();
-//             }
-//         }
-//         return minheap.peek();
-//     }
-// }
