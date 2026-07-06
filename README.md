@@ -41,6 +41,7 @@
 | [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/suyashtripa/DSA-journal/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
+| [0368-largest-divisible-subset](https://github.com/suyashtripa/DSA-journal/tree/master/0368-largest-divisible-subset) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suyashtripa/DSA-journal/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/suyashtripa/DSA-journal/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/suyashtripa/DSA-journal/tree/master/0695-max-area-of-island) |
@@ -123,6 +124,7 @@
 | [0189-rotate-array](https://github.com/suyashtripa/DSA-journal/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/suyashtripa/DSA-journal/tree/master/0268-missing-number) |
+| [0368-largest-divisible-subset](https://github.com/suyashtripa/DSA-journal/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/suyashtripa/DSA-journal/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/suyashtripa/DSA-journal/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/suyashtripa/DSA-journal/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -314,6 +316,7 @@
 | [0268-missing-number](https://github.com/suyashtripa/DSA-journal/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/suyashtripa/DSA-journal/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/suyashtripa/DSA-journal/tree/master/0347-top-k-frequent-elements) |
+| [0368-largest-divisible-subset](https://github.com/suyashtripa/DSA-journal/tree/master/0368-largest-divisible-subset) |
 | [1018-largest-perimeter-triangle](https://github.com/suyashtripa/DSA-journal/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suyashtripa/DSA-journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/suyashtripa/DSA-journal/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -371,6 +374,7 @@
 | [0152-maximum-product-subarray](https://github.com/suyashtripa/DSA-journal/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/suyashtripa/DSA-journal/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/suyashtripa/DSA-journal/tree/master/0241-different-ways-to-add-parentheses) |
+| [0368-largest-divisible-subset](https://github.com/suyashtripa/DSA-journal/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/suyashtripa/DSA-journal/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/suyashtripa/DSA-journal/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/suyashtripa/DSA-journal/tree/master/0746-min-cost-climbing-stairs) |
