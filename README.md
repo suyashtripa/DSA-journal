@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suyashtripa/DSA-journal/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/suyashtripa/DSA-journal/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/suyashtripa/DSA-journal/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/suyashtripa/DSA-journal/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suyashtripa/DSA-journal/tree/master/0166-fraction-to-recurring-decimal) |
