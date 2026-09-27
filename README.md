@@ -10,6 +10,7 @@
 | [0011-container-with-most-water](https://github.com/suyashtripa/DSA-journal/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/suyashtripa/DSA-journal/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyashtripa/DSA-journal/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/suyashtripa/DSA-journal/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suyashtripa/DSA-journal/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suyashtripa/DSA-journal/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/suyashtripa/DSA-journal/tree/master/0035-search-insert-position) |
@@ -163,6 +164,7 @@
 | [0016-3sum-closest](https://github.com/suyashtripa/DSA-journal/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suyashtripa/DSA-journal/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyashtripa/DSA-journal/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/suyashtripa/DSA-journal/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/suyashtripa/DSA-journal/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/suyashtripa/DSA-journal/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/suyashtripa/DSA-journal/tree/master/0088-merge-sorted-array) |
